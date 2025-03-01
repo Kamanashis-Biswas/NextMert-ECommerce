@@ -1,9 +1,9 @@
-import RegisterFrom from "@/components/modules/auth/register/RegisterFrom";
+import RegisterForm from "@/components/modules/auth/register/RegisterForm";
 
 const RegisterPage = () => {
   return (
-    <div className="h-screen w-screen flex items-center justify-center">
-      <RegisterFrom />
+    <div className="h-screen w-screen flex justify-center items-center">
+      <RegisterForm />
     </div>
   );
 };
