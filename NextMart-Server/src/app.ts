@@ -45,8 +45,8 @@ app.get("/", (req: Request, res: Response, next: NextFunction) => {
       )} minutes`,
     },
     developerContact: {
-      email: "fahimfiroz.ph@gmail.com",
-      website: "https://programming-hero.com",
+      email: "kamanashis.cse@gmail.com",
+      website: "https://kamanashisbiswas.com",
     },
   });
 });
